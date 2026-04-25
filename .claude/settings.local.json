@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Set-Location \"e:\\\\2Titan OSINT\"; $job = Start-Job { Set-Location \"e:\\\\2Titan OSINT\"; npx next dev 2>&1 }; Start-Sleep 12; $output = Receive-Job $job; Stop-Job $job; Remove-Job $job; $output)",
+      "PowerShell(Set-Location \"e:\\\\2Titan OSINT\"; $job = Start-Job { Set-Location \"e:\\\\2Titan OSINT\"; npx next dev --port 3002 2>&1 }; Start-Sleep 14; $output = Receive-Job $job; Stop-Job $job; Remove-Job $job; $output | Select-Object -First 12)",
+      "PowerShell(cd \"e:\\\\2Titan OSINT\"; $job = Start-Job { cd \"e:\\\\2Titan OSINT\"; npm run dev 2>&1 }; Start-Sleep -Seconds 12; Receive-Job $job; Stop-Job $job; Remove-Job $job)"
+    ]
+  }
+}

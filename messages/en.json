@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "tools": "Tools",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "badge": "Next-Gen Cybersecurity Platform",
+    "title": "Protect. Investigate.",
+    "titleHighlight": "Dominate.",
+    "subtitle": "Titan OSINT delivers enterprise-grade OSINT tools, cybersecurity services, and threat intelligence to organizations and professionals worldwide.",
+    "cta": "Explore Tools",
+    "ctaSecondary": "Our Services",
+    "stats": {
+      "tools": "50+ Tools",
+      "toolsDesc": "OSINT & Security",
+      "clients": "1K+ Clients",
+      "clientsDesc": "Worldwide",
+      "uptime": "99.9%",
+      "uptimeDesc": "Uptime SLA",
+      "threats": "10M+",
+      "threatsDesc": "Threats Blocked"
+    }
+  },
+  "services": {
+    "badge": "What We Offer",
+    "title": "Enterprise Cybersecurity",
+    "titleHighlight": "Services",
+    "subtitle": "From threat intelligence to penetration testing — we cover the full spectrum of digital security.",
+    "items": {
+      "osint": {
+        "title": "OSINT Intelligence",
+        "desc": "Deep open-source intelligence gathering across social media, dark web, and public records."
+      },
+      "pentest": {
+        "title": "Penetration Testing",
+        "desc": "Simulate real-world attacks to identify vulnerabilities before adversaries do."
+      },
+      "threat": {
+        "title": "Threat Intelligence",
+        "desc": "Real-time threat feeds, IOC analysis, and proactive threat hunting for your organization."
+      },
+      "forensics": {
+        "title": "Digital Forensics",
+        "desc": "Incident response, evidence collection, and forensic analysis for legal and compliance needs."
+      },
+      "training": {
+        "title": "Security Training",
+        "desc": "Hands-on workshops, CTF challenges, and certification programs for security teams."
+      },
+      "audit": {
+        "title": "Security Audits",
+        "desc": "Comprehensive security assessments aligned with ISO 27001, NIST, and SOC 2 frameworks."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "tools": {
+    "badge": "Arsenal",
+    "title": "Powerful Security",
+    "titleHighlight": "Tools",
+    "subtitle": "Battle-tested tools used by security researchers, analysts, and investigators worldwide.",
+    "categories": {
+      "all": "All",
+      "osint": "OSINT",
+      "network": "Network",
+      "crypto": "Crypto",
+      "web": "Web"
+    },
+    "items": {
+      "emailTracer": {
+        "name": "Email Tracer",
+        "desc": "Trace email origins, verify addresses, and uncover linked accounts.",
+        "category": "OSINT"
+      },
+      "ipIntel": {
+        "name": "IP Intelligence",
+        "desc": "Geolocation, ASN lookup, threat scoring, and reverse DNS for any IP.",
+        "category": "Network"
+      },
+      "domainRecon": {
+        "name": "Domain Recon",
+        "desc": "WHOIS, DNS records, subdomains, and certificate transparency analysis.",
+        "category": "Network"
+      },
+      "socialScan": {
+        "name": "Social Scanner",
+        "desc": "Find usernames across 400+ platforms with breach correlation.",
+        "category": "OSINT"
+      },
+      "hashDecoder": {
+        "name": "Hash Decoder",
+        "desc": "Identify hash types and attempt decryption via multiple algorithms.",
+        "category": "Crypto"
+      },
+      "webCrawler": {
+        "name": "Web Crawler",
+        "desc": "Extract metadata, links, and hidden content from any public webpage.",
+        "category": "Web"
+      }
+    },
+    "launch": "Launch Tool",
+    "comingSoon": "Coming Soon",
+    "viewAll": "View All Tools"
+  },
+  "about": {
+    "badge": "Our Story",
+    "title": "Built by Security",
+    "titleHighlight": "Professionals",
+    "subtitle": "Titan OSINT was founded by a team of cybersecurity veterans, former intelligence analysts, and ethical hackers united by one mission: democratize security intelligence.",
+    "mission": {
+      "title": "Our Mission",
+      "desc": "Make enterprise-grade security tools and intelligence accessible to every organization, security team, and researcher — regardless of size or budget."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "desc": "A world where defenders have every advantage they need to stay ahead of evolving threats and protect the digital ecosystem."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": ["Ethics First", "Open Collaboration", "Continuous Innovation", "Community Driven"]
+    },
+    "team": {
+      "title": "The Team",
+      "subtitle": "Seasoned experts from government, enterprise, and open-source communities."
+    }
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Ready to Secure",
+    "titleHighlight": "Your Assets?",
+    "subtitle": "Talk to our team about your security needs. We respond within 24 hours.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company (optional)",
+      "service": "Service Needed",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent! We'll be in touch within 24 hours.",
+      "services": {
+        "osint": "OSINT Intelligence",
+        "pentest": "Penetration Testing",
+        "threat": "Threat Intelligence",
+        "forensics": "Digital Forensics",
+        "training": "Security Training",
+        "audit": "Security Audit",
+        "other": "Other"
+      }
+    },
+    "info": {
+      "email": "contact@osnit.io",
+      "response": "24h Response Time",
+      "available": "Available 24/7",
+      "secure": "Encrypted Communication"
+    }
+  },
+  "footer": {
+    "tagline": "Next-generation cybersecurity intelligence for the modern threat landscape.",
+    "platform": "Platform",
+    "company": "Company",
+    "legal": "Legal",
+    "links": {
+      "tools": "Tools",
+      "services": "Services",
+      "pricing": "Pricing",
+      "docs": "Documentation",
+      "about": "About Us",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "security": "Security Policy"
+    },
+    "copyright": "© 2025 Titan OSINT. All rights reserved."
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "comingSoon": "Coming Soon",
+    "free": "Free",
+    "pro": "Pro",
+    "enterprise": "Enterprise"
+  }
+}
